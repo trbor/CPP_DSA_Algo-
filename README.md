@@ -1,2 +1,2 @@
 # CPP_DSA_Algo-
-C++ Data structure and algorithms
+This Repo consists of coding files of foundation and Data Structures in C++ programming language thought in Coding course at Coding Ninjas
